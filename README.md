@@ -1,2 +1,2 @@
 # computational-neuroscience
-https://hub.gke2.mybinder.org/user/ufangyang-compu-al-neuroscience-6f66ba4x/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufangYang/computational-neuroscience/HEAD)
